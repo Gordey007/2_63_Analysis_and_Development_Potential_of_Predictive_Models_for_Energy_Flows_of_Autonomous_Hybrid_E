@@ -1,0 +1,2 @@
+# 2_63_Analysis_and_Development_Potential_of_Predictive_Models_for_Energy_Flows_of_Autonomous_Hybrid_E
+Статья для участия в FarEastCon-2021
